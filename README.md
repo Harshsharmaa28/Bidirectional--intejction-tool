@@ -35,5 +35,7 @@ Use [ClickHouse example datasets](https://clickhouse.com/docs/en/getting-started
 
 ### 1. Clone Repo
 ```bash
-git clone https://github.com/your-username/clickhouse-csv-ingestion.git
+git clone https://github.com/Harshsharmaa28/Bidirectional--intejction-tool.git
 cd clickhouse-csv-ingestion
+npm install
+npm run dev
